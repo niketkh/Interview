@@ -98,3 +98,29 @@
 ## Bit Manipulation
 
 ## Math and Logic Puzzles
+
+## Object-Oriented Design
+
+## Dynamic Programming
+
+## System Design
+
+## Java 
+
+## JavaScript
+
+## Multithreading
+
+## Databases
+
+## Operating System
+
+## Useful Resources
+
+* [Base CS by Vaidehi Joshi](https://medium.com/basecs)
+* [Tech Interview Handbook by Yangshun Tay](https://github.com/yangshun/tech-interview-handbook)
+* [Front End Interview Handbook by Yangshun Tay](https://github.com/yangshun/front-end-interview-handbook)
+* [Awesome Interview Questions Collection by Maksim Abramchuk](https://github.com/MaximAbramchuck/awesome-interview-questions)
+* [Interactive Coding Challenges by Donne Martin](https://github.com/donnemartin/interactive-coding-challenges)
+* [Interview Resource Collection by Andrei Simionescu](https://github.com/andreis/interview)
+* [Computer Science Study Plan by John Washam](https://github.com/jwasham/coding-interview-university)
