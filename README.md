@@ -124,3 +124,9 @@
 * [Interactive Coding Challenges by Donne Martin](https://github.com/donnemartin/interactive-coding-challenges)
 * [Interview Resource Collection by Andrei Simionescu](https://github.com/andreis/interview)
 * [Computer Science Study Plan by John Washam](https://github.com/jwasham/coding-interview-university)
+* [System Design Primer by Donne Martin](https://github.com/donnemartin/system-design-primer)
+* Useful [Anki](https://apps.ankiweb.net/) Decks by Donne Martin
+    - [Coding Deck](https://github.com/donnemartin/interactive-coding-challenges/blob/master/anki_cards/Coding.apkg)
+    - [System Design Deck](https://github.com/donnemartin/system-design-primer/blob/master/resources/flash_cards/System%20Design.apkg)
+    - [System Design Exercises Deck](https://github.com/donnemartin/system-design-primer/blob/master/resources/flash_cards/System%20Design%20Exercises.apkg)
+    - [Object Oriented Design Exercises Deck](https://github.com/donnemartin/system-design-primer/blob/master/resources/flash_cards/OO%20Design.apkg)
