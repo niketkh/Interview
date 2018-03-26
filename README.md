@@ -1,40 +1,44 @@
+## Runtime Analysis
+
 ## Data Structures 
 
+### Strings
 
-### Array
+### Arrays 
 
+### Dynamic Arrays or ArrayLists
 
-### Linked List
+### Linked Listss
 
 * Singly Linked List
 * Doubly Linked List
 * Circular Linked List
 
-### Stack
+### Stacks
 
 
-### Queue
+### Queues
 
 
-### Tree
+### Trees
 
 
-##### Binary Tree
+##### Binary Trees
 
 
-##### Binary Search Tree
+##### Binary Search Trees
 
 
-##### Trie
+##### Tries (Prefix Treess)
 
 
-##### Heap
+##### Binary Heaps
 * Max Heap
 * Min Heap
 
-### Hash Table or Hash Map
+### Hash Tables or Hash Mapss
 
-### Graph
+### Graphs
 * Undirected Graph
 * Directed Graph
 
@@ -65,6 +69,15 @@
 
 ##### Binary Search
 
+### Binary Tree Traversal
+
+##### In-order Traversal
+
+##### Pre-order Traversal
+
+##### Post-order Traversal
+
+
 ### Graph Traversal
 
 ##### BFS - Breadth First Search
@@ -82,4 +95,6 @@
 ##### Floyd-Warshall Algorithm
 * Find shortest paths in weighted graph with positive or negative edge weights, but no negative cycles
 
+## Bit Manipulation
 
+## Math and Logic Puzzles
