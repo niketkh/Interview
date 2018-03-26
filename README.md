@@ -1,52 +1,47 @@
 ## Data Structures 
-------------------
+
 
 ### Array
----------
+
 
 ### Linked List
----------------
+
 * Singly Linked List
 * Doubly Linked List
 * Circular Linked List
 
 ### Stack
----------
+
 
 ### Queue
----------
+
 
 ### Tree
---------
+
 
 ##### Binary Tree
------------------
+
 
 ##### Binary Search Tree
-------------------------
+
 
 ##### Trie
-----------
+
 
 ##### Heap
-----------
 * Max Heap
 * Min Heap
 
 ### Hash Table or Hash Map
---------------------------
 
 ### Graph
----------
 * Undirected Graph
 * Directed Graph
 
 
 ## Algorithms
--------------
 
 ### Sorting
------------
 
 ##### Bubble Sort
 
@@ -65,8 +60,9 @@
 ##### Topological Sort (Graph Algorithm)
 
 ### Searching
--------------
+
 ##### Linear Search
+
 ##### Binary Search
 
 ### Graph Traversal
@@ -76,7 +72,6 @@
 ##### DFS - Depth First Search
 
 ### Graph Algorithms
---------------------
 
 ##### Dijkstra Algorithm
 * Find shortest path between nodes in a graph
