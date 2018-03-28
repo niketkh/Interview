@@ -1,5 +1,8 @@
 ## Runtime Analysis
 
+* [Big-O Cheat Sheet](http://bigocheatsheet.com/)
+* [Time Complexity in Python Implementations](https://wiki.python.org/moin/TimeComplexity)
+
 ## Data Structures 
 
 ### Strings
@@ -8,7 +11,7 @@
 
 ### Dynamic Arrays or ArrayLists
 
-### Linked Listss
+### Linked Lists
 
 * Singly Linked List
 * Doubly Linked List
@@ -16,32 +19,25 @@
 
 ### Stacks
 
-
 ### Queues
-
 
 ### Trees
 
-
 ##### Binary Trees
-
 
 ##### Binary Search Trees
 
-
-##### Tries (Prefix Treess)
-
+##### Tries (Prefix Trees)
 
 ##### Binary Heaps
 * Max Heap
 * Min Heap
 
-### Hash Tables or Hash Mapss
+### Hash Tables or Hash Maps
 
 ### Graphs
 * Undirected Graph
 * Directed Graph
-
 
 ## Algorithms
 
@@ -86,7 +82,7 @@
 
 ### Graph Algorithms
 
-##### Dijkstra Algorithm
+##### Dijkstra's Algorithm
 * Find shortest path between nodes in a graph
 
 ##### Bellman-Ford Algorithm
@@ -94,6 +90,10 @@
 
 ##### Floyd-Warshall Algorithm
 * Find shortest paths in weighted graph with positive or negative edge weights, but no negative cycles
+
+##### Prim's Algorithm
+
+##### Kruskal's Algorithm
 
 ## Bit Manipulation
 
@@ -115,8 +115,12 @@
 
 ## Operating System
 
-## Useful Resources
+## Mock Interviews
+* [Interview.io](https://interviewing.io/)
+* [Demo Interview](https://start.interviewing.io/interview/9hV9r4HEONf9/replay)
+* [Pramp](https://pramp.com/)
 
+## Useful Resources
 * [Base CS by Vaidehi Joshi](https://medium.com/basecs)
 * [Tech Interview Handbook by Yangshun Tay](https://github.com/yangshun/tech-interview-handbook)
 * [Front End Interview Handbook by Yangshun Tay](https://github.com/yangshun/front-end-interview-handbook)
@@ -130,3 +134,8 @@
     - [System Design Deck](https://github.com/donnemartin/system-design-primer/blob/master/resources/flash_cards/System%20Design.apkg)
     - [System Design Exercises Deck](https://github.com/donnemartin/system-design-primer/blob/master/resources/flash_cards/System%20Design%20Exercises.apkg)
     - [Object Oriented Design Exercises Deck](https://github.com/donnemartin/system-design-primer/blob/master/resources/flash_cards/OO%20Design.apkg)
+* [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
+* [Python Style Guide](https://pep8.org/)
+
+
+
