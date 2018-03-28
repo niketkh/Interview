@@ -1,4 +1,4 @@
-## [Base CS by Vaidehi Joshi](https://medium.com/basecs/archive/2017)
+## Learning Resources
 
 ### Binary and Hexadecimal
 * [Bits, Bytes, Building With Binary](https://medium.com/basecs/bits-bytes-building-with-binary-13cb4289aafa)
@@ -19,7 +19,7 @@
 * [Leaf It Up To Binary Trees](https://medium.com/basecs/leaf-it-up-to-binary-trees-11001aaf746d)
 
 ### Run Time Analysis
-* [Looking For Logic Behind Logarithms](Looking For The Logic Behind Logarithms)
+* [Looking For Logic Behind Logarithms](https://medium.com/basecs/looking-for-the-logic-behind-logarithms-9e79d7666dda)
 
 ### Graphs
 * [A General Introduction To Graph Theory](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
@@ -73,5 +73,5 @@
 * [Tips for all DFS in matrix question](https://leetcode.com/problems/pacific-atlantic-water-flow/discuss/90739/python-dfs-bests-85-tips-for-all-dfs-in-matrix-question)
 * [Tail Call Optimisation](https://stackoverflow.com/questions/310974/what-is-tail-call-optimization)
 
-### Useful Linkes
+### Useful Links
 * [Base CS by Vaidehi Joshi](https://medium.com/basecs)
