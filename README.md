@@ -33,6 +33,7 @@ Type | Implementation
 [Singly Linked List](data-structures/linked-lists/linked-lists.md#singly-linked-list) | [Java](data-structures/linked-lists/LinkedList.java) 
 [Doubly Linked List](data-structures/linked-lists/linked-lists.md#doubly-linked-list) | [Java](data-structures/linked-lists/DoublyLinkedList.java) 
 [Circular Linked List](data-structures/linked-lists/linked-lists.md#circular-linked-list) | [Java](data-structures/linked-lists/LinkedList.java) 
+[XOR Linked List](data-structures/linked-lists/linked-lists.md#xor-linked-list) 
 
 Problems |
 --- |

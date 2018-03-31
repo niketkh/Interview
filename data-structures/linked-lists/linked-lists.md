@@ -78,3 +78,9 @@ Methods | Description | Time Complexity
 `removeAll()                     `| Remove all elements               | O(1)
 `size()                          `| Returns size of list              | O(1)
 `isEmpty()                       `| Checks whether list is empty      | O(1)
+
+### [XOR Linked List](http://www.linuxjournal.com/article/6828)
+Also known as memory efficient linked list. In conventional implementation, we need to keep a forward pointer to next node on the list and a backward pointer to the previous node. XOR linked list implementation is based on pointer difference. Each node uses only one pointer to traverse the list back and forth. 
+
+**Note:** XOR operation is not permitted on references in Java
+
