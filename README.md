@@ -9,16 +9,22 @@
 
 Problems |
 --- |
+[LeetCode](leetcode/leetcode-problems-categorised.md#strings)
 [Cracking The Coding Interview](cracking-the-coding-interview/arrays-and-strings/arrays-and-strings.md)
-[LeetCode]()
-[Data Structures Made Easy]()
 
 ### [Arrays](data-structures/arrays/arrays.md) 
-* [Problems from Cracking The Coding Interview](cracking-the-coding-interview/arrays-and-strings/arrays-and-strings.md)
-* [Problems from LeetCode]()
-* [Problems from Data Structures Made Easy]()
+
+Problems |
+--- |
+[LeetCode](leetcode/leetcode-problems-categorised.md#arrays)
+[Cracking The Coding Interview](cracking-the-coding-interview/arrays-and-strings/arrays-and-strings.md)
 
 ### [Dynamic Arrays or ArrayLists](data-structures/arrays/arrays.md#dynamic-arrays)
+
+Problems |
+--- |
+[LeetCode](leetcode/leetcode-problems-categorised.md#arrays)
+[Cracking The Coding Interview](cracking-the-coding-interview/arrays-and-strings/arrays-and-strings.md)
 
 ### [Linked Lists](data-structures/linked-lists/linked-lists.md)
 
@@ -27,6 +33,12 @@ Type | Implementation
 [Singly Linked List](data-structures/linked-lists/linked-lists.md#singly-linked-list) | [Java](data-structures/linked-lists/LinkedList.java) 
 [Doubly Linked List](data-structures/linked-lists/linked-lists.md#doubly-linked-list) | [Java](data-structures/linked-lists/DoublyLinkedList.java) 
 [Circular Linked List](data-structures/linked-lists/linked-lists.md#circular-linked-list) | [Java](data-structures/linked-lists/LinkedList.java) 
+
+Problems |
+--- |
+[DSA Made Easy](dsa-made-easy/linked-lists/linked-lists.md)
+[LeetCode](leetcode/leetcode-problems-categorised.md#linked-list)
+[Cracking The Coding Interview](cracking-the-coding-interview/linked-lists/linked-lists.md)
 
 ### Stacks
 

@@ -1,6 +1,6 @@
 ## LeetCode Problems
 
-### Sequences - Arrays
+### Arrays
 * [1. Two Sum](https://leetcode.com/problems/two-sum/)
 * [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 * [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
@@ -12,7 +12,7 @@
 * [15. 3 Sum](https://leetcode.com/problems/3sum/description/)
 * [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
-### Sequences - Strings
+### Strings
 * [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 * [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
 * [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/)
