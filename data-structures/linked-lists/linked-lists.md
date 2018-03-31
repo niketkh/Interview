@@ -35,7 +35,7 @@
 
 ## Linked List Implementations
 
-* [Singly Linked List](LinkedList.java)
+#### [Singly Linked List](LinkedList.java)
 
 Methods | Description | Time Complexity
 --- | --- |:---:|
@@ -50,7 +50,7 @@ size()                          | Returns size of list              | O(1)
 isEmpty()                       | Checks whether list is empty      | O(1)
 
 
-* [Doubly Linked List](DoublyLinkedList.java)
+#### [Doubly Linked List](DoublyLinkedList.java)
 
 Methods | Description | Time Complexity
 --- | --- | :---:
@@ -65,7 +65,7 @@ size()                          | Returns size of list              | O(1)
 isEmpty()                       | Checks whether list is empty      | O(1)
 
 
-* [Circular Linked List](CircularLinkedList.java)
+#### [Circular Linked List](CircularLinkedList.java)
 
 Methods | Description | Time Complexity
 --- | --- | :---:
