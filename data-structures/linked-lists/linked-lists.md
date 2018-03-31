@@ -35,9 +35,14 @@
 
 ## Linked List Implementations
 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
 * [Singly Linked List](LinkedList.java)
 Methods | Description | Time Complexity
---- | --- | :---:
+--- | --- |:---:|
 addFirst(E data)                | Add element to beginning of list  | O(1)     
 addLast(E data) or add(E data)  | Add element to the end of list    | O(n)
 add(int index, E data)          | Add element at index (zero based) | O(n)     
