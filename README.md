@@ -5,11 +5,17 @@
 
 ## Data Structures 
 
-### Strings
+### [Strings](data-structures/strings/strings.md)
+* [Problems from Cracking The Coding Interview](cracking-the-coding-interview/arrays-and-strings/arrays-and-strings.md)
+* [Problems from LeetCode]()
+* [Problems from Data Structures Made Easy]()
 
-### Arrays 
+### [Arrays](data-structures/arrays/arrays.md) 
+* [Problems from Cracking The Coding Interview](cracking-the-coding-interview/arrays-and-strings/arrays-and-strings.md)
+* [Problems from LeetCode]()
+* [Problems from Data Structures Made Easy]()
 
-### Dynamic Arrays or ArrayLists
+### [Dynamic Arrays or ArrayLists](data-structures/arrays/arrays.md#dynamic-arrays)
 
 ### [Linked Lists](data-structures/linked-lists/linked-lists.md)
 
