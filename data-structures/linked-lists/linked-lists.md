@@ -37,7 +37,7 @@
 
 * [Singly Linked List](LinkedList.java)
 Methods | Description | Time Complexity
----|---|:---:
+--- | --- | :---:
 addFirst(E data)                | Add element to beginning of list  | O(1)     
 addLast(E data) or add(E data)  | Add element to the end of list    | O(n)
 add(int index, E data)          | Add element at index (zero based) | O(n)     
@@ -51,7 +51,7 @@ isEmpty()                       | Checks whether list is empty      | O(1)
 
 * [Doubly Linked List](DoublyLinkedList.java)
 Methods | Description | Time Complexity
----|---|:---:
+--- | --- | :---:
 addFirst(E data)                | Add element to beginning of list  | O(1)     
 addLast(E data) or add(E data)  | Add element to the end of list    | O(n)
 add(int index, E data)          | Add element at index (zero based) | O(n)     
@@ -65,7 +65,7 @@ isEmpty()                       | Checks whether list is empty      | O(1)
 
 * [Circular Linked List](CircularLinkedList.java)
 Methods | Description | Time Complexity
----|---|:---:
+--- | --- | :---:
 addFirst(E data)                | Add element to beginning of list  | O(n)     
 addLast(E data) or add(E data)  | Add element to the end of list    | O(n)
 add(int index, E data)          | Add element at index (zero based) | O(n)     
