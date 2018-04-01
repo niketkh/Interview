@@ -38,7 +38,7 @@ Methods | Description | Time Complexity
 
 Methods | Description | Time Complexity
 ---|---|:---:
-`push()`    | Pushes element to the top of stack    | O(n)
+`push()`    | Pushes element to the top of stack    | O(1)
 `pop()`     | Pops element from top of stack        | O(1)
 `peek()`    | Returns element at the top of stack without removing it | O(1)
 `isEmpty()` | Checks if stack is empty              | O(1)
