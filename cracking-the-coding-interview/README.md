@@ -9,3 +9,5 @@
 ### [Trees and Graphs](trees-and-graphs/trees-and-graphs.md)
 
 ### [Bit Manipulation](bit-manipulation/bit-manipulation.md)
+
+### [Math and Logic Puzzles](math-and-logic-puzzles/math-and-logic-puzzles.md)
