@@ -11,3 +11,7 @@
 ### [Bit Manipulation](bit-manipulation/bit-manipulation.md)
 
 ### [Math and Logic Puzzles](math-and-logic-puzzles/math-and-logic-puzzles.md)
+
+### [Object Oriented Design](object-oriented-design/object-oriented-design.md)
+
+### [Recursion and Dynamic Programming](recursion-and-dynamic-programming/recursion-and-dynamic-programming.md)
