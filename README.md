@@ -43,6 +43,19 @@ Problems |
 
 ### Stacks
 
+Type | Implementation 
+--- | --- 
+[Array Based](data-structures/stacks/stacks.md#array-based) | [Java](data-structures/stacks/array-based-stack.java)
+[Dynamic Array Based](data-structures/stacks/stacks.md#dynamic-array-based) | [Java](data-structures/stacks/dynamic-array-based-stack.java)
+[ArrayList Based](data-structures/stacks/stacks.md#arraylist-based) | [Java](data-structures/stacks/arraylist-based-stack.java)
+[LinkedList Based](data-structures/stacks/stacks.md#linked-list-based) | [Java](data-structures/stacks/linked-list-based-stack.java)
+
+Problems |
+--- |
+[DSA Made Easy](dsa-made-easy/stacks/stacks.md)
+[LeetCode](leetcode/leetcode-problems-categorised.md#stacks)
+[Cracking The Coding Interview](cracking-the-coding-interview/stacks/stacks.md)
+
 ### Queues
 
 ### Trees
