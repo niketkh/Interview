@@ -1,5 +1,9 @@
 ## Linked List
 
+Linked List is a linear data structure where each element is a seperate object. Each element (or node) of a list comprises of two items - data and reference to next node. The last node has reference to null.
+
+<img src="linkedlist.png">
+
 #### Advantages
 ```
 -> Can be expanded in O(1) i.e constant time 
@@ -70,7 +74,8 @@ Methods | Description | Time Complexity
 Methods | Description | Time Complexity
 --- | --- | :---:
 `addFirst(E data)                `| Add element to beginning of list  | O(n)     
-`addLast(E data) or add(E data)  `| Add element to the end of list    | O(n)
+`addLast(E data) or add(E data)  `| Add element to t
+he end of list    | O(n)
 `add(int index, E data)          `| Add element at index (zero based) | O(n)     
 `removeFirst() or remove()       `| Remove element from beginning of list | O(n)
 `removeLast()                    `| Remove element from end of list   | O(n)
