@@ -15,3 +15,9 @@
 ### [Object Oriented Design](object-oriented-design/object-oriented-design.md)
 
 ### [Recursion and Dynamic Programming](recursion-and-dynamic-programming/recursion-and-dynamic-programming.md)
+
+### [System Design and Scalability](system-design-and-scalability/system-design-and-scalability.md)
+
+### [Sorting and Searching](sorting-and-searching/sorting-and-searching.md)
+
+### [Testing](testing/testing.md)
