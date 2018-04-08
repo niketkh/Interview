@@ -1,4 +1,4 @@
-## Data Structures and Algorithms Made Easy
+## Problems from Data Structures and Algorithms Made Easy
 
 ### Runtime Analysis
 * Big Oh Notation
@@ -18,7 +18,7 @@
 
 ### Algorithms
 
-* Sorting Algorithms
+* [Sorting Algorithms](sorting/sorting.md)
 * Searching Algorithms
 * String Algorithms
 * Graph Algorithms
