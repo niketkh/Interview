@@ -1,30 +1,25 @@
-## Linked Lists
+## Linked Lists Problems
 
-### Problems
-
-#### Problem 1
+#### Problem 1 : Linked List Based Stack
 Implement Stack using Linked List
 
-#### Problem 2
+Solution |
+--- |
+[Linked List Based Stack](problem-1/solution.java)
+
+#### Problem  2 : Nth Node From End
 Find n<sup>th</sup> node from end of a Linked List
 
-#### Problem 3
-Can we improve complexity of Problem 2?
-
-#### Problem 4
-Can we use Problem 3 approach for solving Problem-2 without creating hash table?
-
-#### Problem 5
-Can we solve problem Problem 2 in one scan?
+Solution | Time Complexity | Space Complexity
+---|:---:|:---:
+[Solution 1 - Using Size of List (Two Scans)](problem-2/solution-1.java) | O(n) | O(1)
+[Solution 2 - Using Two Pointers (One Scan)](problem-2/solution-2.java) | O(n) | O(1)
 
 #### Problem 6
 Check whether the given linked list is either NULL-terminated or ends in a cycle
 
 #### Problem 7
 Can we use hashing technique for solving Problem 6?
-
-#### Problem 8
-Can we solve Problem 6 using sorting technique?
 
 #### Problem 9
 Can we solve Problem 6 in O(n)?

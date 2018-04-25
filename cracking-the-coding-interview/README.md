@@ -21,3 +21,7 @@
 ### [Sorting and Searching](sorting-and-searching/sorting-and-searching.md)
 
 ### [Testing](testing/testing.md)
+
+### [C and C++](c-and-c++/c-and-c++.md)
+
+### [Java](java/java.md)
