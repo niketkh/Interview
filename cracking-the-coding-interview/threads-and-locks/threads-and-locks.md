@@ -1,7 +1,9 @@
 ## Threads and Locks
 
-### 15.1 Thread vs Process
+### [15.1 Thread vs Process](15.1-thread-vs-process.md)
 What's the difference between a thread and process?
+
+[See Answer](15.1-thread-vs-process.md)
 
 ### 15.2 Context Switch
 How would you measure the time spent in a context switch?

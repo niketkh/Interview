@@ -149,8 +149,16 @@ Problems |
 ## Multithreading
 
 ## Databases
+* [Database Normalization](https://www.studytonight.com/dbms/database-normalization.php)
 
 ## Operating System
+
+## Design Patterns
+* [Design Patterns](design-patterns/design-patterns.md)
+* [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [Java Design Patterns](https://github.com/iluwatar/java-design-patterns)
+* [Java Design Patterns](http://stacktips.com/tutorials/design-patterns/foundational-gangs-of-four-design-patterns-in-java)
+* [Ways to implement Singleton Pattern in Java](https://www.journaldev.com/1377/java-singleton-design-pattern-best-practices-examples)
 
 ## Mock Interviews
 * [Interview.io](https://interviewing.io/)
@@ -173,6 +181,7 @@ Problems |
     - [Object Oriented Design Exercises Deck](https://github.com/donnemartin/system-design-primer/blob/master/resources/flash_cards/OO%20Design.apkg)
 * [Google Java Style Guide](https://google.github.io/styleguide/javaguide.html)
 * [Python Style Guide](https://pep8.org/)
+
 
 
 
